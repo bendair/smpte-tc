@@ -1,0 +1,2 @@
+# Requirements for SMPTE Timecode Server (Python)
+aioconsole>=0.6.2
