@@ -11,8 +11,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="smpte-timecode-server",
     version="1.0.0",
-    author="Claude",
-    author_email="claude@anthropic.com",
+    author="Ben Dair",
+    author_email="info@dairdc.com",
     description="SMPTE Timecode Server with multi-session support and various framerates",
     long_description=long_description,
     long_description_content_type="text/markdown",
